@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"BusinessLogic"},{"l":"BusinessLogic.validators"},{"l":"Connection"},{"l":"DAO"},{"l":"Model"},{"l":"Presentation"},{"l":"start"}];updateSearchResults();
